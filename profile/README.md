@@ -1,6 +1,6 @@
 # Getting Started
 
-The course uses Python with the Visual Studio Code (VSCode) integrated development environment (IDE) and Anaconda package manager. In the following we explain how to set-up your development environment, and how to get started with the assignments. The setup and assignments are tested for Windows 10 and the respective versions as mentioned below. Unfortunately we cannot support other versions or operating systems. In case of problems, please first consult the FAQ on Piazza.
+The course uses Python with the Visual Studio Code (VSCode) integrated development environment (IDE) and Anaconda package manager. In the following we explain how to set-up your development environment, and how to get started with the assignments. The setup and assignments are tested for Windows 11 and the respective versions as mentioned below. Unfortunately we cannot support other versions or operating systems. In case of problems, please first consult the FAQ on Piazza.
 
 
 _Install VSCode_
@@ -10,7 +10,7 @@ VSCode is a popular Integrated Development Environment (IDE) for many programmin
 
 _Install Anaconda_
 
-Anaconda is a package manager and environment manager for Python. TUe laptops already come with Anaconda Navigator installed. You can verify by opening a PowerShell from the Start Menu and typing `conda --version`, which should return the version number. If you do not have Anaconda, navigate to `https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links` and install the latest Miniconda3 for Windows. Then open Anaconda Prompt from the Start Menu and type `conda init powershell` to be able to open Anaconda from Windows PowerShell (which will be handy). Verify your installation by typing  `conda --version` and `python --version`, which should return your conda version and Python version for the base environment.
+Anaconda is a package manager and environment manager for Python. TUe laptops already come with Anaconda Navigator installed. You can verify by opening a PowerShell from the Start Menu and typing `conda --version`, which should return the version number. If you do not have Anaconda, navigate to `https://www.anaconda.com/download/success` and install the latest Miniconda3 for Windows. Then open Anaconda Prompt from the Start Menu and type `conda init powershell` to be able to open Anaconda from Windows PowerShell (which will be handy). Verify your installation by typing  `conda --version` and `python --version`, which should return your conda version and Python version for the base environment.
 
 
 _System Paths_
@@ -30,8 +30,7 @@ GitHub is an online hosting platform for code-related projects. In this course y
 
 _Assignments_
 
-With your environment setup, you can start the assignments. The assignments are divided into three projects, and will be shared via a GitHub Classroom invitation.
+With your environment setup, you can start the assignments. The assignments are divided into two projects, and will be shared via a GitHub Classroom invitation.
 
-1. A Git and Github tutorial, where you'll learn to use basic version control (individually, week 1);
-2. The development and training of an application for mushroom foragers that classifies mushroom edibility (individually, week 2,3);
-3. The development and training of a pokerbot, an agent that plays Kuhn poker against fellow students (group, week 4-8).
+1. The development and training of an application for mushroom foragers that classifies mushroom edibility (individually, weeks 1-4);
+2. The development and training of a pokerbot, an agent that plays Kuhn poker against fellow students (group, weeks 5-8).

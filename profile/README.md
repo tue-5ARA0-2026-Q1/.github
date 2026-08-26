@@ -30,7 +30,7 @@ GitHub is an online hosting platform for code-related projects. In this course y
 
 _Assignments_
 
-With your environment setup, you can start the assignments. The assignments are divided into two projects, and will be shared via a GitHub Classroom invitation.
+With your environment setup, you can start the assignments. The assignments are divided into two projects, and will be shared via a Classroom 50 invitation.
 
 1. The development and training of an application for mushroom foragers that classifies mushroom edibility (individually, weeks 1-4);
 2. The development and training of a pokerbot, an agent that plays Kuhn poker against fellow students (group, weeks 5-8).
